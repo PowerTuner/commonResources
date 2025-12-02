@@ -1,0 +1,31 @@
+<!--
+  - This file is part of PowerTuner.
+  - Copyright (C) 2025 kylon
+  -
+  - PowerTuner is free software: you can redistribute it and/or modify
+  - it under the terms of the GNU General Public License as published by
+  - the Free Software Foundation, either version 3 of the License, or
+  - (at your option) any later version.
+  -
+  - PowerTuner is distributed in the hope that it will be useful,
+  - but WITHOUT ANY WARRANTY; without even the implied warranty of
+  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  - GNU General Public License for more details.
+  -
+  - You should have received a copy of the GNU General Public License
+  - along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+<RCC>
+    <qresource prefix="/gpu">
+        <file>gpuIDs/amdgpu.ids</file>
+        <file>gpuIDs/intelgpu.ids</file>
+        <file>gpuIDs/nvidiagpu.ids</file>
+    </qresource>
+    <qresource prefix="/rangesDB">
+        <file>inputRanges/K53SJ.json</file>
+        <file>inputRanges/G1618-04.json</file>
+        <file>inputRanges/G1688-08.json</file>
+        <file>inputRanges/90MV00DMIX.json</file>
+        <file>inputRanges/LNVNB161216.json</file>
+    </qresource>
+</RCC>

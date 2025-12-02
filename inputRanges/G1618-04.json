@@ -1,0 +1,25 @@
+{
+  "#comment": "gpd win 4 6800u",
+  "AMD Ryzen 7 6800U": {
+    "radj_pl": {
+      "min": 5000,
+      "max": 32000
+    },
+    "radj_apu_slow": {
+      "min": 5000,
+      "max": 32000
+    },
+    "radj_vrm_current": {
+      "min": 8000,
+      "max": 150000
+    },
+    "radj_vrm_soc_current": {
+      "min": 8000,
+      "max": 150000
+    },
+    "radj_gfx_clock": {
+      "min": 200,
+      "max": 2200
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "#comment": "lenovo idea centre 3",
+  "AMD Ryzen 5 3500U": {
+    "radj_pl": {
+      "min": 5000,
+      "max": 25000
+    },
+    "radj_apu_slow": {
+      "min": 5000,
+      "max": 25000
+    },
+    "radj_gfx_clock": {
+      "min": 200,
+      "max": 1200
+    }
+  }
+}

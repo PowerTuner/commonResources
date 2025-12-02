@@ -1,0 +1,15 @@
+{
+  "Intel(R) Core(TM) i7-2860QM": {
+    "#comment": "custom lap",
+    "intl_pl": {
+      "min": 10000,
+      "max": 45000
+    },
+    "intl_pl4": {
+      "max": 100000
+    },
+    "intl_pp1": {
+      "max": 35000
+    }
+  }
+}

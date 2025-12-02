@@ -1,0 +1,9 @@
+{
+  "Intel(R) Core(TM) i3-N300": {
+    "#comment": "gpd micro pc 2",
+    "intl_pl": {
+      "min": 5000,
+      "max": 18000
+    }
+  }
+}

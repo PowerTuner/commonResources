@@ -1,0 +1,25 @@
+{
+  "#comment": "lenovo ideapad 330S",
+  "AMD Ryzen 5 2500U": {
+    "radj_pl": {
+      "min": 5000,
+      "max": 35000
+    },
+    "radj_apu_slow": {
+      "min": 5000,
+      "max": 35000
+    },
+    "radj_vrm_current": {
+      "min": 8000,
+      "max": 150000
+    },
+    "radj_vrm_soc_current": {
+      "min": 8000,
+      "max": 150000
+    },
+    "radj_gfx_clock": {
+      "min": 201,
+      "max": 1101
+    }
+  }
+}
