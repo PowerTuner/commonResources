@@ -1,6 +1,6 @@
 {
+  "#comment": "custom laptop",
   "Intel(R) Core(TM) i7-2860QM": {
-    "#comment": "custom lap",
     "intl_pl": {
       "min": 10000,
       "max": 45000
