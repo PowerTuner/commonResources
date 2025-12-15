@@ -1,0 +1,17 @@
+{
+  "#comment": "gpd win 5",
+  "RYZEN AI MAX+ 395": {
+    "radj_pl": {
+      "min": 5000,
+      "max": 85000
+    },
+    "radj_apu_slow": {
+      "min": 5000,
+      "max": 85000
+    },
+    "radj_gfx_clock": {
+      "min": 600,
+      "max": 2900
+    }
+  }
+}
