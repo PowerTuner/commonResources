@@ -24,6 +24,7 @@
     <qresource prefix="/rangesDB">
         <file>inputRanges/K53SJ.json</file>
         <file>inputRanges/G1618-04.json</file>
+        <file>inputRanges/G1618-05.json</file>
         <file>inputRanges/G1688-08.json</file>
         <file>inputRanges/90MV00DMIX.json</file>
         <file>inputRanges/LNVNB161216.json</file>
